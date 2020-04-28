@@ -135,6 +135,7 @@
       <package>yast2-trans-en_US</package>
       <package>wget</package>
       <package>curl</package>
+      <package>bzip2</package>
       <package>grub2-branding-openSUSE</package>
       <package>less</package>
     </packages>
